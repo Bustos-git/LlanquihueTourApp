@@ -1,0 +1,7 @@
+Isla Huar;Calbuco;1200
+Parque Tagua Tagua;Cochamó;2700
+Playa Los Cisnes;Llanquihue;1500
+Río Maullín;Llanquihue;1800
+Volcán Osorno;Llanquihue;2500
+Lago Llanquihue;Llanquihue;2300
+
