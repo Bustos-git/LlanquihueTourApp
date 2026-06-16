@@ -2,10 +2,10 @@
 # 🧠 Actividad Formativa – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
-- **Nombre completo:** [Antonia Bustos]
-- **Sección:** [005]
+- **Nombre completo:** Antonia Bustos
+- **Sección:** 005
 - **Carrera:** Analista Programador Computacional
-- **Sede:** [Sede Online]
+- **Sede:** Sede Online
 
 ---
 
